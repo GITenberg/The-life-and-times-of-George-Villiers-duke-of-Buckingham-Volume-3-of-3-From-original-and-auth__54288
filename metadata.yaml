@@ -1,5 +1,8 @@
 _repo: The-life-and-times-of-George-Villiers-duke-of-Buckingham-Volume-3-of-3-From-original-and-auth__54288
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54288-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomson, A. T., Mrs.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '9623'
     url: http://www.gutenberg.org/2009/agents/9623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54288#The-life-and-times-of-George-Villiers-duke-of-Buckingham-Volume-3-of-3-From-original-and-auth_
 gutenberg_issued: '2017-03-06'
 gutenberg_type: Text
 identifiers:
